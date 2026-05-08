@@ -1,5 +1,5 @@
 # 💫 About Me:
-📐 M.Sc. Data Science (Advanced & Computational Mathematics) @ TU Chemnitz, Germany<br>🛠️ Working across the stack: Python · SQL · Power BI · PostGIS/PostgreSQL · Machine Learning · Deep Learning<br>🔍 Before data science, I spent 4+ years in Technical Support — it taught me how to diagnose problems fast and communicate clearly, skills I bring into every analysis<br>🤝 Actively seeking Werkstudent & internship roles in Germany — Data Science · ML Engineering · BI/Analytics · SQL Development
+📐 M.Sc. Data Science (Advanced & Computational Mathematics) @ TU Chemnitz, Germany<br>🛠️ Working across the stack: Python · SQL · Power BI · PostGIS/PostgreSQL · Machine Learning · Deep Learning<br>🔍 Before data science, I spent 4+ years in Technical Support,  it taught me how to diagnose problems fast and communicate clearly, skills I bring into every analysis<br>🤝 Actively seeking Werkstudent & internship roles in Germany, Data Science · ML Engineering · BI/Analytics · SQL Development
 
 
 ## 🌐 Socials:
