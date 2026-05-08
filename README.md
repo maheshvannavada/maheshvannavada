@@ -1,5 +1,5 @@
 # 💫 About Me:
-📐 M.Sc. Data Science (Advanced & Computational Mathematics) @ TU Chemnitz, Germany<br>🛠️ Working across the stack: Python · SQL · Power BI · PostGIS/PostgreSQL · Machine Learning · Deep Learning<br>🔍 Before data science, I spent 4+ years in Technical Support,  it taught me how to diagnose problems fast and communicate clearly, skills I bring into every analysis<br>🤝 Actively seeking Werkstudent & internship roles in Germany, Data Science · ML Engineering · BI/Analytics · SQL Development
+📐 M.Sc. Data Science (Advanced & Computational Mathematics) @ TU Chemnitz, Germany<br>🛠️ Working across the stack: Python · SQL · Power BI · PostGIS/PostgreSQL · Machine Learning · Deep Learning<br>🔍 Before data science, I spent 4+ years in Technical Support — it taught me how to diagnose problems fast and communicate clearly, skills I bring into every analysis<br>🤝 Actively seeking Werkstudent & internship roles in Germany — Data Science · ML Engineering · BI/Analytics · SQL Development
 
 
 ## 🌐 Socials:
@@ -11,15 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=maheshvannavada&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=maheshvannavada&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=maheshvannavada&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maheshvannavada&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maheshvannavada&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=maheshvannavada&icon=0&color=1)](https://visitcount.itsvg.in)
