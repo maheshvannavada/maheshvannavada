@@ -1,5 +1,5 @@
 # 💫 About Me:
-📐 M.Sc. Data Science (Advanced & Computational Mathematics) @ TU Chemnitz, Germany<br>🛠️ Working across the stack: Python · SQL · Power BI · PostGIS/PostgreSQL · Machine Learning · Deep Learning<br>🔍 Before data science, I spent 4+ years in Technical Support — it taught me how to diagnose problems fast and communicate clearly, skills I bring into every analysis<br>🤝 Actively seeking Werkstudent & internship roles in Germany — Data Science · ML Engineering · BI/Analytics · SQL Development
+📐 M.Sc. Data Science (Advanced & Computational Mathematics) @ TU Chemnitz, Germany<br>🛠️ Working across the stack: Python · SQL · Power BI · PostGIS/PostgreSQL · Machine Learning · Deep Learning<br>🔍 Before data science, I spent 4+ years in Technical Support, it taught me how to diagnose problems fast and communicate clearly, skills I bring into every analysis<br>🤝 Actively seeking Werkstudent & internship roles in Germany — Data Science · ML Engineering · BI/Analytics · SQL Development
 
 
 ## 🌐 Socials:
@@ -11,17 +11,16 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=maheshvannavada&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=maheshvannavada&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=maheshvannavada&theme=default&hide_border=false" />
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=maheshvannavada&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshvannavada&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=maheshvannavada&color=0e75b6&style=flat-square&label=Profile+Views)
 
