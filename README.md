@@ -22,6 +22,6 @@
   </tr>
 </table>
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=maheshvannavada&color=0e75b6&style=flat-square&label=Profile+Views)
+[![](https://komarev.com/ghpvc/?username=maheshvannavada&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
